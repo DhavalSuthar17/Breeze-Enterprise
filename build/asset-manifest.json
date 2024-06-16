@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Breeze-Enterprise/static/css/main.3f8bf5a7.css",
+    "main.js": "/Breeze-Enterprise/static/js/main.ef99539a.js",
+    "static/js/453.bb63e5f8.chunk.js": "/Breeze-Enterprise/static/js/453.bb63e5f8.chunk.js",
+    "static/media/MainSectionImg.png": "/Breeze-Enterprise/static/media/MainSectionImg.18b19228f6fb5a0d0091.png",
+    "static/media/malto-dextrin-gujarat-ambuja-500x500-new-one.jpeg": "/Breeze-Enterprise/static/media/malto-dextrin-gujarat-ambuja-500x500-new-one.4504c8a736f2996b8d5c.jpeg",
+    "static/media/logo.jpeg": "/Breeze-Enterprise/static/media/logo.5273ec6ec895384a96e7.jpeg",
+    "index.html": "/Breeze-Enterprise/index.html",
+    "main.3f8bf5a7.css.map": "/Breeze-Enterprise/static/css/main.3f8bf5a7.css.map",
+    "main.ef99539a.js.map": "/Breeze-Enterprise/static/js/main.ef99539a.js.map",
+    "453.bb63e5f8.chunk.js.map": "/Breeze-Enterprise/static/js/453.bb63e5f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f8bf5a7.css",
+    "static/js/main.ef99539a.js"
+  ]
+}
